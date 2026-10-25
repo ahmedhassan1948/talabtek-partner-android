@@ -1,0 +1,7 @@
+build/
+releases/
+*.idsig
+*.iml
+.idea/
+.gradle/
+local.properties
